@@ -13,6 +13,7 @@
 		1F0ADFB31CB1B857005C3A04 /* MathFacts.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1F0ADFB11CB1B857005C3A04 /* MathFacts.xcdatamodeld */; };
 		1F0ADFB51CB1B857005C3A04 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F0ADFB41CB1B857005C3A04 /* Assets.xcassets */; };
 		1F0ADFB81CB1B857005C3A04 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F0ADFB61CB1B857005C3A04 /* LaunchScreen.storyboard */; };
+		1F8C5F0E1CB1B969006644BB /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F8C5F0D1CB1B969006644BB /* Game.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1F0ADFB41CB1B857005C3A04 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1F0ADFB71CB1B857005C3A04 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1F0ADFB91CB1B857005C3A04 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1F8C5F0D1CB1B969006644BB /* Game.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				1F0ADFAA1CB1B857005C3A04 /* AppDelegate.swift */,
 				1F0ADFAC1CB1B857005C3A04 /* ViewController.swift */,
 				1F0ADFAE1CB1B857005C3A04 /* Main.storyboard */,
+				1F8C5F0D1CB1B969006644BB /* Game.swift */,
 				1F0ADFB41CB1B857005C3A04 /* Assets.xcassets */,
 				1F0ADFB61CB1B857005C3A04 /* LaunchScreen.storyboard */,
 				1F0ADFB91CB1B857005C3A04 /* Info.plist */,
@@ -141,6 +144,7 @@
 				1F0ADFAD1CB1B857005C3A04 /* ViewController.swift in Sources */,
 				1F0ADFAB1CB1B857005C3A04 /* AppDelegate.swift in Sources */,
 				1F0ADFB31CB1B857005C3A04 /* MathFacts.xcdatamodeld in Sources */,
+				1F8C5F0E1CB1B969006644BB /* Game.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -292,6 +296,7 @@
 				1F0ADFBE1CB1B857005C3A04 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
